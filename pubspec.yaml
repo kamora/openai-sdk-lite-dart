@@ -1,0 +1,16 @@
+name: openai_sdk_lite_dart
+description: >-
+  The part of the OpenAI API client that chorus uses: streamed Responses API requests decoded into events, API errors,
+  aborts and timeouts.
+version: 0.1.0
+repository: https://github.com/kamora/openai-sdk-lite-dart
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  http: ^1.6.0
+
+dev_dependencies:
+  lints: ^6.1.0
+  test: ^1.33.0

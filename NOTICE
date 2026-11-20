@@ -1,0 +1,10 @@
+openai_sdk_lite_dart
+Copyright 2026 the openai_sdk_lite_dart authors.
+
+This package is a Dart client derived from the OpenAI TypeScript SDK
+(https://github.com/openai/openai-node, v7.19.0),
+Copyright 2026 OpenAI, licensed under the Apache License 2.0.
+
+It was modified from that SDK: rewritten in Dart and cut down to the
+streamed Responses request, its server-sent event decoding and the API
+errors. It is not an official OpenAI product.
